@@ -15,7 +15,7 @@ AI for good. I am seeking for opportunities to expand my knowledge particularly 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> - 💼 Any freelance work? Reach me at, [email](mailto:khanduict@gmail.com) :) - 💬 Ask me anything, I am always
 happy to help; **languages and tools:**
  -->
- ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Prajwol Lamichhane.
+ ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Khandu Om.
 
 ## About Me
 - 💻 Currently I'm a Final year Computer Science Student at [Murdoch University](https://www.murdoch.edu.au/).
