@@ -29,6 +29,6 @@ happy to help; **languages and tools:**
 - 📫 How to reach me [Email](mailto:khanduict@gmail.com)
 
 <break>
-### 📈 my github stats
+<h3>My Github Stats</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=khanduict&show_icons=true&theme=gotham" alt="khanduict" />
