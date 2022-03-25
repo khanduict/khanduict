@@ -6,7 +6,7 @@
 - 🔭 Research Interests: Time Series Predictions, Video and Email Traffic Analysis and Performance Evaluation using ML/DL models. 
 - 💞️ I’m looking to collaborate on any projects related to Machine Learning and AI.
 - ✍️ I also maintain a [blog here](https://khanduict.medium.com/).
-- ![image](https://user-images.githubusercontent.com/38637722/160060599-a5614929-b09c-4e53-81b3-6051693d5ab3.png) Tools I use: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+- Tools I use: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
