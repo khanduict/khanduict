@@ -1,7 +1,7 @@
  ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Khandu Om.
 
 ## About Me
-- 💻 Currently I'm a Final year Computer Science Student at [Murdoch University](https://www.murdoch.edu.au/).
+- 💻 I recently graduated from [Murdoch University](https://www.murdoch.edu.au/).
 - 🌱 I work on Machine Learning and Data Science.
 - 🔭 Research Interests: Time Series Predictions, Video and Email Traffic Analysis and Performance Evaluation using ML/DL models. 
 - 💞️ I’m looking to collaborate on any projects related to Machine Learning and AI.
