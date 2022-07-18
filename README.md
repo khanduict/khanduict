@@ -2,8 +2,8 @@
 
 ## About Me
 - 💻 I recently graduated from [Murdoch University](https://www.murdoch.edu.au/).
-- 🌱 I work on Machine Learning and Data Science.
-- 🔭 Research Interests: Time Series Predictions, Video and Email Traffic Analysis and Performance Evaluation using ML/DL models. 
+- 🌱 My thesis focus on the use of AI models for anticipatory network traffic.
+- 🔭 Area of Interests: Data Analytics,Visualisation, Machine learning and Deep learning.
 - 💞️ I’m looking to collaborate on any projects related to Machine Learning and AI.
 - ✍️ I also maintain a [blog here](https://khanduict.medium.com/).
 - Tools I use: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
