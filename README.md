@@ -1,13 +1,13 @@
  ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Khandu.
 
 ## About Me
-- 🎓 Graduated with a degree in Data Science, equipped with expertise in Python, SQL, Excel, scikit-learn, Pandas, NumPy, Machine Learning modeling and Power BI.
+- 🎓 Graduated with a degree in Data Science, equipped with expertise in Python, SQL, Excel, Python, Machine Learning modeling and Power BI.
 - 🌱 Passionate about leveraging data to extract meaningful insights and drive informed decision-making.
-- 🌱 Microsoft Certified Power BI Data Analyst with strong skills in data visualization, DAX and data modeling.
+- 🌱 Microsoft Certified Power BI Data Analyst and Azure data fundamentals with strong skills in data visualization, DAX and data modeling.
 - 🌱 Experienced in creating dashboards that turn business data into action.
 - 💼 Seeking opportunities as a Data Analyst/Power BI Developer/Data Engineer where it can apply my expertise in:
 - 🌱 Data Visualization: Power BI (DAX, Power Query, Data Modeling), Excel
-- 🌱 Data Analysis & Modeling: Python (Pandas, NumPy), Machine Learning (TensorFlow, Keras, scikit-learn)
+- 🌱 Data Analysis & Modeling: Python, Machine Learning modeling
 - 🌱 Azure SQL Database
 - 🌱 BI & Reporting: SQL, Power BI dashboards, ETL processes
 - 🌱 ERP & System Administration: SAP Basis, ERPNext
