@@ -1,17 +1,14 @@
  ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Khandu.
 
 ## About Me
-- 🎓 Graduated with a degree in Data Science, equipped with expertise in Python, SQL, Excel, Python, Machine Learning modeling and Power BI.
-- 🌱 Passionate about leveraging data to extract meaningful insights and drive informed decision-making.
-- 🌱 Microsoft Certified Power BI Data Analyst and Azure data fundamentals with strong skills in data visualization, DAX and data modeling.
-- 🌱 Experienced in creating dashboards that turn business data into action.
-- 💼 Seeking opportunities as a Data Analyst/Power BI Developer/Data Engineer where it can apply my expertise in:
-- 🌱 Data Visualization: Power BI (DAX, Power Query, Data Modeling), Excel
+- 🎓  My interest lies in transforming raw data into actionable insights through data modeling, ETL workflows, and visualization. I build end-to-end analytical solutions that streamline workflows, improve efficiency, and support data-driven decision-making with advanced analytics and automation techniques.
+- 🌱 I have experience working with multiple systems and integration tools, connecting data from enterprise databases, ERP platforms (SAP, ERPNext), and workflow automation tools to build reliable data pipelines. I am particularly interested in exploring cloud platforms such as Azure and Snowflake to expand my skills in scalable, cloud-based data solutions.
+- 💼 Seeking opportunities as a Data Analyst/Data Engineer where it can apply my expertise in:
+- 🌱 Data Visualization: Power BI , Excel
 - 🌱 Data Analysis & Modeling: Python, Machine Learning modeling
-- 🌱 Azure SQL Database
+- 🌱 Azure Data Fundamentamentals
 - 🌱 BI & Reporting: SQL, Power BI dashboards, ETL processes
 - 🌱 ERP & System Administration: SAP Basis, ERPNext
-- 🌱 Integration & Process Automation: Boomi AtomSphere
 - 🌱 Project & Testing Tools: Jira, Confluence
 - ✍️ I also maintain a [blog here](https://khanduict.medium.com/).
 - Tools I use: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
