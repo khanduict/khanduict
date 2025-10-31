@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓  My interest lies in transforming raw data into actionable insights through data modeling, ETL workflows, and visualization. I build end-to-end analytical solutions that streamline workflows, improve efficiency, and support data-driven decision-making with advanced analytics and automation techniques.
-- 🌱 I have experience working with multiple systems and integration tools, connecting data from enterprise databases, ERP platforms (SAP, ERPNext), and workflow automation tools to build reliable data pipelines. I am particularly interested in exploring cloud platforms such as Azure and Snowflake to expand my skills in scalable, cloud-based data solutions.
+- 🌱 I have experience working with multiple systems and integration tools, connecting data from enterprise databases, ERP platforms (SAP, ERPNext), and workflow automation tools to build reliable data pipelines. I am particularly interested in exploring cloud platforms to expand my skills in scalable, cloud-based data solutions.
 - 💼 Key Skills:
 - 🌱 Data Visualization: Power BI , Excel
 - 🌱 Data Analysis & Modeling: Python, Machine Learning modeling
