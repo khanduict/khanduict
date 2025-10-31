@@ -10,7 +10,7 @@
 - 🌱 BI & Reporting: SQL, Power BI dashboards, ETL processes
 - 🌱 ERP & System Administration: SAP Basis, ERPNext
 - 🌱 Project & Testing Tools: Jira, Confluence
-- - 💼 Certification:
+- 💼 Certification:
 - 🌱 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - 🌱 Microsoft Certified: Azure Data Fundamentals (DP-900)
 - 🌱 Microsoft Fabric Training Completion Certificate (Udemy & Microsoft Learning)
