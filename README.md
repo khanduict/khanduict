@@ -10,6 +10,10 @@
 - 🌱 BI & Reporting: SQL, Power BI dashboards, ETL processes
 - 🌱 ERP & System Administration: SAP Basis, ERPNext
 - 🌱 Project & Testing Tools: Jira, Confluence
+- - 💼 Certification:
+- 🌱 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- 🌱 Microsoft Certified: Azure Data Fundamentals (DP-900)
+- 🌱 Microsoft Fabric Training Completion Certificate (Udemy & Microsoft Learning)
 - 💼 Seeking opportunities as a Data Analyst or Data Engineer, where I can apply my technical expertise and problem-solving mindset to deliver actionable insights and business value.
 - ✍️ I also maintain a [blog here](https://khanduict.medium.com/).
 - Tools I use: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
