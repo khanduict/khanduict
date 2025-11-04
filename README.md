@@ -13,6 +13,7 @@
 - 💼 Certification:
 - 🌱 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - 🌱 Microsoft Certified: Azure Data Fundamentals (DP-900)
+- 🌱 Databricks Fundamentals
 - 🌱 Microsoft Fabric Training Completion Certificate (Udemy & Microsoft Learning)
 - 💼 Seeking opportunities as a Data Analyst or Data Engineer, where I can apply my technical expertise and problem-solving mindset to deliver actionable insights and business value.
 - ✍️ I also maintain a [blog here](https://khanduict.medium.com/).
