@@ -10,6 +10,8 @@
 - 🌱 BI & Reporting: SQL, Power BI dashboards, ETL processes
 - 🌱 ERP & System Administration: SAP Basis, ERPNext
 - 🌱 Project & Testing Tools: Jira, Confluence
+- 💼 Education:
+- 🌱 PhD in Information Technology (Year 2018 -2022) - Murdoch University, Western Australia
 - 💼 Certification:
 - 🌱 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - 🌱 Microsoft Certified: Azure Data Fundamentals (DP-900)
