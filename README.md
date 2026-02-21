@@ -10,11 +10,9 @@
 - 🌱 BI & Reporting: SQL, Power BI dashboards, ETL processes
 - 🌱 ERP & System Administration: SAP Basis, ERPNext
 - 🌱 Project & Testing Tools: Jira, Confluence
-- 💼 Education:
-- 🌱 PhD in Information Technology (Year 2018 -2022) - Murdoch University, Western Australia
 - 💼 Certification:
-- 🌱 Microsoft Certified: Power BI Data Analyst Associate (PL-300)  https://learn.microsoft.com/api/credentials/share/en-us/KhanduOm-4433/E296D6D443CEA588?sharingId=B1F9EA995447D0B8
-- 🌱 Microsoft Certified: Azure Data Fundamentals (DP-900) https://learn.microsoft.com/api/credentials/share/en-us/KhanduOm-4433/86AF393B33F58327?sharingId=B1F9EA995447D0B8
+- 🌱 Microsoft Certified: Power BI Data Analyst Associate (PL-300) <code>  src="https://learn.microsoft.com/api/credentials/share/en-us/KhanduOm-4433/E296D6D443CEA588?sharingId=B1F9EA995447D0B8 </code>
+- 🌱 Microsoft Certified: Azure Data Fundamentals (DP-900) https://learn.microsoft.com/api/credentials/share/en-us/KhanduOm-4433/86AF393B33F58327?sharingId=B1F9EA995447D0B8" 
 - 🌱 Databricks Fundamentals
 - 🌱 Microsoft Fabric Learning Completion Certificate (Udemy & Microsoft Learning)
 - 💼 Seeking opportunities as a Data Analyst or Data Engineer, where I can apply my technical expertise and problem-solving mindset to deliver actionable insights and business value.
