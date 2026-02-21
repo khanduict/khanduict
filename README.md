@@ -12,7 +12,7 @@
 - 🌱 Project & Testing Tools: Jira, Confluence
 - 💼 Certification:
 - 🌱 Microsoft Certified: Power BI Data Analyst Associate (PL-300) [certificate link](https://learn.microsoft.com/api/credentials/share/en-us/KhanduOm-4433/E296D6D443CEA588?sharingId=B1F9EA995447D0B8)
-- 🌱 Microsoft Certified: Azure Data Fundamentals (DP-900) https://learn.microsoft.com/api/credentials/share/en-us/KhanduOm-4433/86AF393B33F58327?sharingId=B1F9EA995447D0B8" 
+- 🌱 Microsoft Certified: Azure Data Fundamentals (DP-900) [certificate link](https://learn.microsoft.com/api/credentials/share/en-us/KhanduOm-4433/86AF393B33F58327?sharingId=B1F9EA995447D0B8)
 - 🌱 Databricks Fundamentals
 - 🌱 Microsoft Fabric Learning Completion Certificate (Udemy & Microsoft Learning)
 - 💼 Seeking opportunities as a Data Analyst or Data Engineer, where I can apply my technical expertise and problem-solving mindset to deliver actionable insights and business value.
